@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+int mark[]={75,65,70};
+ int mark1,mark2, mark3;
+ mark1=75;
+ mark2=65;
+ mark3=70;
+ printf("%d\n",mark[0]);
+ printf("%d\n",mark[1]);
+ printf("%d",mark[2]);
+
+    return 0;
+}
